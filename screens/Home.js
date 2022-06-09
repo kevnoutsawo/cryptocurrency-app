@@ -3,8 +3,14 @@ import {
     StyleSheet,
     View,
     Text,
-    TouchableOpacity
+    TouchableOpacity,
+    ScrollView,
+    FlatList,
+    Image,
+    ImageBackground
 } from 'react-native';
+
+import { dummyData, COLORS, SIZES, FONTS, icons, images } from '../constants';
 
 const Home = ({ navigation }) => {
     return (
