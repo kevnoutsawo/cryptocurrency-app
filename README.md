@@ -1,7 +1,7 @@
 
 This is a Cryptocurrency app front end based on the design created by David Morgan on Dribbble.
 
-Be sure to subscribe to our YouTube channel for more videos like this!
+It is made in React Native and use Victory Native for data visualization
 
 ## Table of Contents
 
